@@ -9,7 +9,7 @@ import Sofa from './Pages/Sofa';
 import Tables from './Pages/Tables';
 import Cart from "./Components/Cart";
 import { useState, useEffect } from "react";
-import Price from "./Components/price";
+
 
 
 function App() {
